@@ -191,4 +191,7 @@ Ex: <style>
         p    {color: red;}
     </style>
 
+(c). External - by using a <link> element to link to an external CSS file
+Ex: <link rel="stylesheet" href="styles.css">
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
