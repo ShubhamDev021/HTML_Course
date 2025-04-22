@@ -77,3 +77,19 @@ The HTML <br> element defines a line break.
 Use <br> if you want a line break (a new line) without starting a new paragraph
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+Problem with paragraph tags
+
+This poem will display on a single line
+<p>
+  My Bonnie lies over the ocean.
+
+  My Bonnie lies over the sea.
+
+  My Bonnie lies over the ocean.
+
+  Oh, bring back my Bonnie to me.
+</p>
+
+i.e. My Bonnie lies over the ocean. My Bonnie lies over the sea. My Bonnie lies over the ocean. Oh, bring back my Bonnie to me.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
