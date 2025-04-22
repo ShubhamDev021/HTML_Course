@@ -46,3 +46,10 @@ Ex: <br>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 NOTE: HTML tags are not case sensitive: <P> means the same as <p>.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+HTML Attributes
+
+HTML attributes provide additional information about HTML elements.
+Ex: <a href="https://www.w3schools.com">Visit W3Schools</a>
+Here, <a> tag defines a hyperlink. The href attribute specifies the URL of the page the link goes to.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
