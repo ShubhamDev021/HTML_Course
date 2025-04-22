@@ -173,3 +173,9 @@ An HSLA color value is specified with: hsla(hue, saturation, lightness, alpha)
 Ex: hsla(9, 100%, 64%, 0), hsla(9, 100%, 64%, 0.4), hsla(9, 100%, 64%, 1) etc
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+HTML Styles - CSS
+
+Cascading Style Sheets (CSS) is used to format the layout of a webpage
+With CSS, you can control the color, font, the size of text, the spacing between elements, how elements are positioned and laid out, what background images or background colors are to be used, different displays for different devices and screen sizes, and much more!
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
