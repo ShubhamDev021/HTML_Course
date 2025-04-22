@@ -99,3 +99,24 @@ The HTML <pre> element defines preformatted text.
 The text inside a <pre> element is displayed in a fixed-width font (usually Courier), and it preserves both spaces and line breaks.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+HTML Style Attribute
+
+Setting the style of an HTML element, can be done with the style attribute.
+Syntax: <tagname style="property:value;">
+
+(a). Background Color
+background-color:powderblue;
+
+(b). Text Color
+color:blue;
+
+(c). Fonts
+font-family:verdana;
+
+(d). Text Size
+font-size:15px;
+
+(e). Text Alignment
+text-align:center;
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
