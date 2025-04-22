@@ -208,3 +208,8 @@ It can have one of the following values:
 (d). _top - Opens the document in the full body of the window
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+HTML Link Colors
+
+We can assign color to various state of a link such as link, visited, hover, active etc
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
