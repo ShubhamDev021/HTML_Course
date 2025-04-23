@@ -1046,3 +1046,9 @@ HTML form elements are listed below:
         </datalist>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+HTML Multimedia
+
+Multimedia on the web is sound, music, videos, movies, and animations
+Web pages often contain multimedia elements of different types and formats.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
