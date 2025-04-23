@@ -896,4 +896,9 @@ HTML form attributes are listed below:
     Ex: <form action="/action_page.php" target="_blank" method="get">
     Ex: <form action="/action_page.php" target="_blank" method="post">
 
+(d). The Autocomplete Attribute
+    The autocomplete attribute specifies whether a form should have autocomplete on or off.
+    When autocomplete is on, the browser automatically complete values based on values that the user has entered before.
+    Ex: <form action="/action_page.php" target="_blank" method="post" autocomplete="on">
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
