@@ -301,4 +301,7 @@ Ex: table, th, td {
         border: 1px solid black;
     }
 
+Collapsed Table Borders
+To avoid having double borders, set the CSS border-collapse property to collapse
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
