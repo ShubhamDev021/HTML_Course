@@ -561,3 +561,10 @@ Ex: <span>, <a>, <img>, <input> etc
     
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+HTML Div Element
+
+The <div> element is used as a container for other HTML elements.
+The <div> element is by default a block element, meaning that it takes all available width, and comes with line breaks before and after.
+Ex: <div></div>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
