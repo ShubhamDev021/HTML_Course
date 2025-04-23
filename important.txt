@@ -867,4 +867,11 @@ An HTML form is used to collect user input. The user input is most often sent to
 The <form> Element
 The HTML <form> element is used to create an HTML form for user input.
 
+HTML Form Attribute
+HTML form attributes are listed below: 
+(a). The Action Attribute
+    The action attribute defines the action to be performed when the form is submitted.
+    Usually, the form data is sent to a file on the server when the user clicks on the submit button.
+    Ex: <form action="/action_page.php">
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
