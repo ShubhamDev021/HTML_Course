@@ -974,4 +974,8 @@ HTML form elements are listed below:
         It allows the user to select a week and year.
         Ex: <input type="week" id="week" name="week">
 
+    (xix). Input Type Time
+        It allows the user to select a time (no time zone).
+        Ex: <input type="time" id="appt" name="appt">
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
