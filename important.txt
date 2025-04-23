@@ -925,4 +925,10 @@ HTML form elements are listed below:
         Ex: <input type="radio" id="css" name="fav_language" value="CSS">
             <input type="radio" id="javascript" name="fav_language" value="JavaScript">
 
+    (vi). Input Type Checkbox
+        It defines a checkbox
+        Ex: <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+            <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+            <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
