@@ -600,4 +600,18 @@ Ex: <div>
         <p>Rome has over 4 million inhabitants.</p>
     </div>
 
+Aligning <div> elements side by side
+When building web pages, you often want to have two or more <div> elements side by side
+There are different methods for aligning elements side by side, all include some CSS styling as:
+(a). Float
+    The CSS float property is used for positioning and formatting content and allows elements to be positioned horizontally, rather than vertically.
+    Ex: div.mycontainer {
+            width:100%;
+            overflow:auto;
+        }
+        div.mycontainer div {
+            width:33%;  
+            float:left;
+        }
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
