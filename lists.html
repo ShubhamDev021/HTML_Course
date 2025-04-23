@@ -4,6 +4,30 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>HTML Lists</title>
+
+    <style>
+        /* Horizontal List with CSS - horizontal navbar using list */
+        .ul-1 {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+                overflow: hidden;
+                background-color: #333333;
+        }
+        .li-1 {
+            float: left;
+        }
+        .li-1 .a-1 {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 16px;
+            text-decoration: none;
+        }
+        .li-1 .a-1:hover {
+            background-color: #111111;
+        }
+    </style>
 </head>
 <body>
     Unordered Lists
@@ -51,6 +75,14 @@
             </ul>
         </li>
         <li>Milk</li>
+    </ul>
+
+    Horizontal List with CSS - horizontal navbar
+    <ul class="ul-1">
+        <li class="li-1"><a class="a-1" href="#home">Home</a></li>
+        <li class="li-1"><a class="a-1" href="#news">News</a></li>
+        <li class="li-1"><a class="a-1" href="#contact">Contact</a></li>
+        <li class="li-1"><a class="a-1" href="#about">About</a></li>
     </ul>
 </body>
 </html>
