@@ -469,4 +469,12 @@ Ex: <ul>
             <li><a href="#about">About</a></li>
         </ul>
 
+(a). Ordered HTML List
+An ordered list starts with the <ol> tag. Each list item starts with the <li> tag
+Ex: <ol>
+        <li>Coffee</li>
+        <li>Tea</li>
+        <li>Milk</li>
+    </ol>
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
