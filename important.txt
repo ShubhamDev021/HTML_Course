@@ -233,3 +233,9 @@ HTML Favicon
 A favicon is a small image displayed next to the page title in the browser tab.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+HTML Page Title
+
+Every web page should have a page title to describe the meaning of the page.
+The <title> element adds a title to your page
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
