@@ -321,4 +321,10 @@ Ex: table, th, td {
         border-radius: 10px;
     }
 
+Border Color
+With the border-color property, you can set the color of the border
+Ex:  th, td {
+        border-color: #96D4D4;
+    }
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
