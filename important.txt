@@ -920,4 +920,9 @@ HTML form elements are listed below:
         It defines a reset button that will reset all form values to their default values
         Ex: <input type="reset" value="Reset">
 
+    (v). Input Type Radio
+        It defines a radio button
+        Ex: <input type="radio" id="css" name="fav_language" value="CSS">
+            <input type="radio" id="javascript" name="fav_language" value="JavaScript">
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
