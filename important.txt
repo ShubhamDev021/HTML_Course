@@ -314,4 +314,11 @@ Ex: table, th, td {
         background-color: #96D4D4;
     }
 
+Round Table Borders
+With the border-radius property, the borders get rounded corners
+Ex: table, th, td {
+        border: 1px solid black;
+        border-radius: 10px;
+    }
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
