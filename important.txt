@@ -947,4 +947,8 @@ HTML form elements are listed below:
         It defines a file-select field and a "Browse" button for file uploads
         Ex: <input type="file" id="myfile" name="myfile">
 
+    (xi). Input Type Hidden
+        It defines a hidden input field (not visible to a user).
+        Ex: <input type="hidden" id="custId" name="custId" value="3487">
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
