@@ -396,4 +396,14 @@ Ex: <ul>
         <li>Milk</li>
     </ul>
 
+    Choose List Item Marker
+    The CSS list-style-type property is used to define the style of the list item marker.
+
+    (i). Disc
+    Ex: <ul style="list-style-type:disc;">
+            <li>Coffee</li>
+            <li>Tea</li>
+            <li>Milk</li>
+        </ul>
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
