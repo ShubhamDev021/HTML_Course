@@ -908,4 +908,8 @@ HTML form elements are listed below:
         It defines a single-line text input field.
         Ex: <input type="text" id="fname" name="fname">
 
+    (ii). Input Type Password
+        It defines a password field.
+        Ex: <input type="password" id="pwd" name="pwd">
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
