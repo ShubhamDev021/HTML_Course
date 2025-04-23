@@ -810,3 +810,53 @@ A non-semantic element tells nothing about its content.
 Ex: <div> and <span>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+HTML Style Guide
+
+(a). Always Declare Document Type
+Ex: <!DOCTYPE html>
+
+(b). Use Lowercase Element Names
+Ex: <body>
+        <p>This is a paragraph.</p>
+    </body>
+
+(c). Close All HTML Elements
+Ex: <section>
+        <p>This is a paragraph.</p>
+        <p>This is a paragraph.</p>
+    </section>
+
+(d). Use Lowercase Attribute Names
+Ex: <a href="https://www.test.com/">Visit our test website</a>
+
+(e). Never Skip the <title> Element
+
+(f). Add the lang Attribute
+You should always include the lang attribute inside the <html> tag, to declare the language of the Web page. This is meant to assist search engines and browsers.
+Ex: <html lang="en-us">
+
+(g). Meta Data
+To ensure proper interpretation and correct search engine indexing, both the language and the character encoding <meta charset="charset"> should be defined as early as possible in an HTML document
+Ex: <meta charset="UTF-8">
+
+(h). Setting The Viewport
+The viewport is the user's visible area of a web page. It varies with the device - it will be smaller on a mobile phone than on a computer screen.
+You should include the following <meta> element in all your web pages.
+Ex: <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+(i). HTML Comments
+(1). Single line comments
+Ex: <!-- This is a comment -->
+(2). Multi line comments
+Ex: <!--
+        This is a long comment example. This is a long comment example.
+        This is a long comment example. This is a long comment example.
+    -->
+
+(j). Use stylesheets for CSS
+Ex: <link rel="stylesheet" href="styles.css">
+
+(k). Load javascri[t in HTML
+Ex: <script src="myscript.js">
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
