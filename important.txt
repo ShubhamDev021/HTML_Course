@@ -951,4 +951,8 @@ HTML form elements are listed below:
         It defines a hidden input field (not visible to a user).
         Ex: <input type="hidden" id="custId" name="custId" value="3487">
 
+    (xii). Input Type Number
+        It defines a numeric input field
+        Ex: <input type="number" id="quantity" name="quantity" min="1" max="5">
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
