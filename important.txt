@@ -641,3 +641,18 @@ There are different methods for aligning elements side by side, all include some
         }
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+HTML class Attribute
+
+The HTML class attribute is used to specify a class for an HTML element.
+Multiple HTML elements can share the same class.
+Class attribute is used to apply style on multiple elements having the same class, this avoids repetition of CSS code.
+In CSS, class is denoted by using dot(.) symbol
+Ex: <h2 class="city">London</h2>
+    <style>
+    .city {
+        background-color: tomato;
+        color: white;
+    }
+    </style>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
