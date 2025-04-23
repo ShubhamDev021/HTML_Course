@@ -377,5 +377,9 @@ Ex: tr:nth-child(even) {
         background-color: #D6EEEE;
     }
 
+HTML Table Styling - Vertical Zebra Stripes
+Ex: td:nth-child(even), th:nth-child(even) {
+        background-color: #D6EEEE;
+    }
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
