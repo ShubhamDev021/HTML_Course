@@ -916,4 +916,8 @@ HTML form elements are listed below:
         It defines a button for submitting form data to a form-handler
         Ex: <input type="submit" value="Submit">
 
+    (iv). Input Type Reset
+        It defines a reset button that will reset all form values to their default values
+        Ex: <input type="reset" value="Reset">
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
