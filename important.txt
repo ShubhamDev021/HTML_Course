@@ -874,7 +874,7 @@ HTML form attributes are listed below:
     Usually, the form data is sent to a file on the server when the user clicks on the submit button.
     Ex: <form action="/action_page.php">
 
-(b). The  Attribute
+(b). The Target Attribute
     The target attribute specifies where to display the response that is received after submitting the form.
     It can have one of the following values
 
@@ -889,5 +889,11 @@ HTML form attributes are listed below:
     (iii). _parent
         The response is displayed in the parent frame
         Ex: <form action="/action_page.php" target="_parent">
+
+(c). The Method Attribute
+    The method attribute specifies the HTTP method to be used when submitting the form data.
+    The form-data can be sent as URL variables (with method="get") or as HTTP post transaction (with method="post").
+    Ex: <form action="/action_page.php" target="_blank" method="get">
+    Ex: <form action="/action_page.php" target="_blank" method="post">
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
