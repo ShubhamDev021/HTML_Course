@@ -228,3 +228,8 @@ HTML Background Images
 To add a background image on an HTML element, use the HTML style attribute and the CSS background-image property: <p style="background-image: url('img_girl.jpg');">
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+HTML Favicon
+
+A favicon is a small image displayed next to the page title in the browser tab.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
