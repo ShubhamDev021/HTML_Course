@@ -939,4 +939,8 @@ HTML form elements are listed below:
         It is used for input fields that should contain a color
         Ex: <input type="color" id="favcolor" name="favcolor">
 
+    (ix). Input Type Email
+        It is used for input fields that should contain an e-mail address.
+        Ex: <input type="email" id="email" name="email">
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
