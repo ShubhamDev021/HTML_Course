@@ -728,4 +728,7 @@ There are four different techniques to create multicolumn layouts:
 (b). CSS Float Layout
     It is common to do entire web layouts using the CSS float property. Float is easy to learn - you just need to remember how the float and clear properties work.
 
+(c). CSS Flexbox Layout
+    Use of flexbox ensures that elements behave predictably when the page layout must accommodate different screen sizes and different display devices.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
