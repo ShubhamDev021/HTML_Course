@@ -383,3 +383,17 @@ Ex: td:nth-child(even), th:nth-child(even) {
     }
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+HTML Lists
+
+HTML lists allow web developers to group a set of related items in lists.
+
+Types of HTML list:
+(a). Unordered HTML List
+An unordered list starts with the <ul> tag. Each list item starts with the <li> tag
+Ex: <ul>
+        <li>Coffee</li>
+        <li>Tea</li>
+        <li>Milk</li>
+    </ul>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
