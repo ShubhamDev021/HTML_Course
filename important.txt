@@ -223,3 +223,8 @@ Image Maps
 The HTML <map> tag defines an image map. An image map is an image with clickable areas. The areas are defined with one or more <area> tags.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+HTML Background Images
+
+To add a background image on an HTML element, use the HTML style attribute and the CSS background-image property: <p style="background-image: url('img_girl.jpg');">
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
