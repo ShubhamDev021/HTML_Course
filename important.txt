@@ -912,4 +912,8 @@ HTML form elements are listed below:
         It defines a password field.
         Ex: <input type="password" id="pwd" name="pwd">
 
+    (iii). Input Type Submit
+        It defines a button for submitting form data to a form-handler
+        Ex: <input type="submit" value="Submit">
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
