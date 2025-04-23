@@ -901,4 +901,11 @@ HTML form attributes are listed below:
     When autocomplete is on, the browser automatically complete values based on values that the user has entered before.
     Ex: <form action="/action_page.php" target="_blank" method="post" autocomplete="on">
 
+HTML Form Elements
+HTML form elements are listed below: 
+(a). The <input> Element
+    (i). Input Type Text
+        It defines a single-line text input field.
+        Ex: <input type="text" id="fname" name="fname">
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
