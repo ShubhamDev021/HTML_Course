@@ -1051,4 +1051,11 @@ HTML Multimedia
 Multimedia on the web is sound, music, videos, movies, and animations
 Web pages often contain multimedia elements of different types and formats.
 
+HTML Video
+The <video> element is used to show a video on a web page
+Ex: <video width="400" controls>
+        <source src="assets/mov_bbb.mp4" type="video/mp4">
+        Your browser does not support HTML video.
+    </video>
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
