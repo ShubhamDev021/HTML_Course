@@ -1013,4 +1013,10 @@ HTML form elements are listed below:
             <option value="audi">Audi</option>
         </select>
 
+(d). The <textarea> Element
+    It defines a multi-line input field
+    Ex: <textarea name="message" rows="10" cols="30">
+            The cat was playing in the garden.
+        </textarea>
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
