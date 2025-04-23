@@ -330,4 +330,11 @@ Ex:  th, td {
 Table Caption
 You can add a caption that serves as a heading for the entire table.
 
+Table Cell Padding
+Cell padding is the space between the cell edges and the cell content
+By default the padding is set to 0. To add padding on table cells, use the CSS padding property.
+Ex: th, td {
+        padding: 15px;
+    }
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
