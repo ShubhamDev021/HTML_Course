@@ -931,4 +931,8 @@ HTML form elements are listed below:
             <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
             <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
 
+    (vii). Input Type Button
+        It defines a button
+        Ex: <input type="button" onclick="alert('Hello World!')" value="Click Me!">
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
