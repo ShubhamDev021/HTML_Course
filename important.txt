@@ -522,4 +522,17 @@ Ex: <ol>
             <li>Milk</li>
         </ol>
 
+    Nested HTML Lists
+    Lists can be nested (list inside list)
+    Ex: <ol>
+            <li>Coffee</li>
+            <li>Tea
+                <ol>
+                    <li>Black tea</li>
+                    <li>Green tea</li>
+                </ol>
+            </li>
+            <li>Milk</li>
+        </ol>
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
