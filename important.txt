@@ -804,3 +804,9 @@ A semantic element clearly describes its meaning to both the browser and the dev
 Ex: <img>, <table>, and <article>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+HTML Non-Semantic Elements
+
+A non-semantic element tells nothing about its content.
+Ex: <div> and <span>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
