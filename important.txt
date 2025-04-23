@@ -963,4 +963,7 @@ HTML form elements are listed below:
         It is used for search fields (a search field behaves like a regular text field).
         Ex: <input type="search" id="gsearch" name="gsearch">
 
+    (xv). Input Type Date
+        <input type="date" id="birthday" name="birthday">
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
