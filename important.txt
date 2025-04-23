@@ -966,4 +966,8 @@ HTML form elements are listed below:
     (xv). Input Type Date
         <input type="date" id="birthday" name="birthday">
 
+    (xvi). Input Type Month
+        It allows the user to select a month and year
+        Ex: <input type="month" id="bdaymonth" name="bdaymonth">
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
