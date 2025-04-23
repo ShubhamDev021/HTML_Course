@@ -1058,4 +1058,11 @@ Ex: <video width="400" controls>
         Your browser does not support HTML video.
     </video>
 
+HTML Video - Autoplay
+To start a video automatically, use the autoplay attribute
+Ex: <video width="400" controls autoplay>
+        <source src="assets/mov_bbb.mp4" type="video/mp4">
+        Your browser does not support HTML video.
+    </video>
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
