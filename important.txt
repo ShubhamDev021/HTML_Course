@@ -477,4 +477,14 @@ Ex: <ol>
         <li>Milk</li>
     </ol>
 
+    The Type Attribute
+    The type attribute of the <ol> tag, defines the type of the list item marker.
+
+    (i). Numbers
+    Ex: <ol type="1">
+            <li>Coffee</li>
+            <li>Tea</li>
+            <li>Milk</li>
+        </ol>
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
