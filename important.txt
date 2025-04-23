@@ -621,4 +621,14 @@ There are different methods for aligning elements side by side, all include some
             display: inline-block;
         }
 
+(c). Flex
+    The CSS Flexbox Layout Module was introduced to make it easier to design flexible responsive layout structure without using float or positioning.
+    To make the CSS flex method work, surround the <div> elements with another <div> element and give it the status as a flex container.
+    Ex: .mycontainer {
+            display: flex;
+        }
+        .mycontainer > div {
+            width:33%;
+        }
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
