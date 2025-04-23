@@ -874,4 +874,20 @@ HTML form attributes are listed below:
     Usually, the form data is sent to a file on the server when the user clicks on the submit button.
     Ex: <form action="/action_page.php">
 
+(b). The  Attribute
+    The target attribute specifies where to display the response that is received after submitting the form.
+    It can have one of the following values
+
+    (i). _blank
+        The response is displayed in a new window or tab
+        Ex: <form action="/action_page.php" target="_blank">
+    
+    (ii). _self
+        The response is displayed in the current window
+        Ex: <form action="/action_page.php" target="_self">
+    
+    (iii). _parent
+        The response is displayed in the parent frame
+        Ex: <form action="/action_page.php" target="_parent">
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
