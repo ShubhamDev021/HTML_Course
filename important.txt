@@ -1034,4 +1034,15 @@ HTML form elements are listed below:
             <input type="text" id="lname" name="lname" value="Doe"><br><br>
         </fieldset>
 
+(g). The <datalist> Element
+    It specifies a list of pre-defined options for an <input> element
+    Ex: <input list="browsers">
+        <datalist id="browsers">
+            <option value="Edge">
+            <option value="Firefox">
+            <option value="Chrome">
+            <option value="Opera">
+            <option value="Safari">
+        </datalist>
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
