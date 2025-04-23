@@ -1019,4 +1019,8 @@ HTML form elements are listed below:
             The cat was playing in the garden.
         </textarea>
 
+(e). The <button> Element
+    It defines a clickable button
+    Ex: <button type="button" onclick="alert('Hello World!')">Click Me!</button>
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
