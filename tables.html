@@ -6,15 +6,18 @@
     <title>HTML Tables</title>
 
     <style>
+        /* HTML Table Borders */
         .table-1, .th-1, .td-1 {
             border: 1px solid black;
         }
 
+        /* Collapsed Table Borders */
         .table-2, .th-2, .td-2 {
             border: 1px solid black;
             border-collapse: collapse;
         }
 
+        /* Table Borders Background */
         .table-3, .th-3, .td-3 {
             border: 1px solid white;
             border-collapse: collapse;
@@ -23,11 +26,13 @@
             background-color: #96D4D4;
         }
 
+        /* Round Table Borders */
         .table-4, .th-4, .td-4 {
             border: 1px solid black;
             border-radius: 10px;
         }
 
+        /* Border Color and Table Cell Padding */
         .th-5, .td-5 {
             border-style:solid;
             border-color: #96D4D4;
@@ -40,6 +45,19 @@
 
         .table-7, .th-7, .td-7 {
             border: 1px solid black;
+        }
+
+        /* Horizontal Zebra Stripes */
+        .table-8 {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        .th-8, .td-8 {
+            text-align: left;
+            padding: 8px;
+        }
+        .tr-8:nth-child(even) {
+            background-color: #D6EEEE;
         }
     </style>
 </head>
@@ -170,6 +188,35 @@
         </tr>
         <tr>
             <td class="td-7">555-8745</td>
+        </tr>
+    </table>
+
+    <h3>Table 8</h3>
+    <table class="table-8">
+        <tr class="tr-8">
+            <th class="th-8">First Name</th>
+            <th class="th-8">Last Name</th>
+            <th class="th-8">Points</th>
+        </tr>
+        <tr class="tr-8">
+            <td class="td-8">Peter</td>
+            <td class="td-8">Griffin</td>
+            <td class="td-8">$100</td>
+        </tr>
+        <tr class="tr-8">
+            <td class="td-8">Lois</td>
+            <td class="td-8">Griffin</td>
+            <td class="td-8">$150</td>
+        </tr>
+        <tr class="tr-8">
+            <td class="td-8">Joe</td>
+            <td class="td-8">Swanson</td>
+            <td class="td-8">$300</td>
+        </tr>
+        <tr class="tr-8">
+            <td class="td-8">Cleveland</td>
+            <td class="td-8">Brown</td>
+            <td class="td-8">$250</td>
         </tr>
     </table>
 </body>

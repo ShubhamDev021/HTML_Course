@@ -372,4 +372,10 @@ Ex: <table>
         </tr>
     </table>
 
+HTML Table Styling - Horizontal Zebra Stripes
+Ex: tr:nth-child(even) {
+        background-color: #D6EEEE;
+    }
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
