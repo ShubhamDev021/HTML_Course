@@ -943,4 +943,8 @@ HTML form elements are listed below:
         It is used for input fields that should contain an e-mail address.
         Ex: <input type="email" id="email" name="email">
 
+    (x). Input Type File
+        It defines a file-select field and a "Browse" button for file uploads
+        Ex: <input type="file" id="myfile" name="myfile">
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
