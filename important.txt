@@ -735,3 +735,66 @@ There are four different techniques to create multicolumn layouts:
     The CSS Grid Layout Module offers a grid-based layout system, with rows and columns, making it easier to design web pages without having to use floats and positioning.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+HTML Responsive Web Design
+
+Responsive web design is about creating web pages that look good on all devices!
+A responsive web design will automatically adjust for different screen sizes and viewports.
+
+Setting The Viewport
+To create a responsive website, add the following <meta> tag to all your web pages
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+Responsive Images
+Responsive images are images that scale nicely to fit any browser size.
+If the CSS width property is set to 100%, the image will be responsive and scale up and down
+Ex: <img src="assets/coffee.jpg" style="width:100%;">
+
+Responsive Text Size
+The text size can be set with a "vw" unit, which means the "viewport width".
+That way the text size will follow the size of the browser window.
+Ex: <h1 style="font-size:10vw">Hello World</h1>
+
+Media Queries
+In addition to resize text and images, it is also common to use media queries in responsive web pages.
+With media queries you can define completely different styles for different browser sizes.
+Ex: <style>
+        .left {
+            background-color: #2196F3;
+            padding: 20px;
+            float: left;
+            width: 20%; /* The width is 20%, by default */
+        }
+
+        .main {
+            background-color: #f1f1f1;
+            padding: 20px;
+            float: left;
+            width: 60%; /* The width is 60%, by default */
+        }
+
+        .right {
+            background-color: #04AA6D;
+            padding: 20px;
+            float: left;
+            width: 20%; /* The width is 20%, by default */
+        }
+
+        /* Use a media query to add a break point at 800px: */
+        @media screen and (max-width: 800px) {
+            .left, .main, .right {
+                width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+            }
+        }
+    </style>
+
+    <div class="left">
+        <p>Left Menu</p>
+    </div>
+    <div class="main">
+        <p>Main Content</p>
+    </div>
+    <div class="right">
+        <p>Right Content</p>
+    </div>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
