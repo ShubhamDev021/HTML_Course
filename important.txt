@@ -553,3 +553,11 @@ Ex: <p>, <pre>, <form>, <div> etc
     <div>Hello World</div>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
+Inline HTML Elements
+
+An inline element does not start on a new line and it only takes up as much width as necessary
+Ex: <span>, <a>, <img>, <input> etc
+    <span>Hello World</span>
+    
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
