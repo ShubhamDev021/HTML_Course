@@ -725,4 +725,7 @@ There are four different techniques to create multicolumn layouts:
 (a). CSS framework
     If you want to create your layout fast, you can use a CSS framework like Bootstrap, Tailwind etc
 
+(b). CSS Float Layout
+    It is common to do entire web layouts using the CSS float property. Float is easy to learn - you just need to remember how the float and clear properties work.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
