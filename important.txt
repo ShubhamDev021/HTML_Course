@@ -970,4 +970,8 @@ HTML form elements are listed below:
         It allows the user to select a month and year
         Ex: <input type="month" id="bdaymonth" name="bdaymonth">
 
+    (xvii). Input Type Week
+        It allows the user to select a week and year.
+        Ex: <input type="week" id="week" name="week">
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
